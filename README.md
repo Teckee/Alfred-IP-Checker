@@ -1,15 +1,14 @@
 
 <div align="center">  <img src="https://imgs.lfeng.tech/images/2023/09/ip.png" width = "100" height = "100" alt="图片名称" align=center /> </div>
-
-
-<center>IP Check是一个简单高效的Alfred Workflow，可以方便的一键查询ip的归属地等详细信息。</center>
+<br />
+<div align="center">  IP Check是一个简单高效的Alfred Workflow，可以方便的一键查询ip的归属地等详细信息。 </div>
 
 
 ## 使用体验
 
 直接打开Alfred输入框，键入**ip + 空格 + 需要查询的IP地址**即可，下面会显示该ip所在的城市，所属机构，时区，邮编，经纬度。更多的信息大家可以在workflow中自行添加。
 
-![YE0p9P](https://imgs.lfeng.tech/images/2023/09/YE0p9P.png)
+<div align="center">  <img src="https://imgs.lfeng.tech/images/2023/09/YE0p9P.png" width = "440" height = "200" alt="图片名称" align=center /> </div>
 
 
 ## 如何安装
